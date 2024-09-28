@@ -9,7 +9,7 @@ import { useNavigate } from "react-router-dom";
 import HeroSection from "./Home/HeroSection";
 import ResourceCard from "../components/ResourceCard/ResourceCard";
 import ClubCard from '../components/ClubCard/Clubcard.jsx'
-import Footer from '../components/Footer/Footer'
+// import Footer from '../components/Footer/Footer'
 
 function Home() {
     const navigate = useNavigate();
